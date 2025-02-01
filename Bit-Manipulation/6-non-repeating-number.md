@@ -1,0 +1,2 @@
+# Single Among Doubles⭐⭐
+You can access the problem using the following link: [Problem Link](https://www.geeksforgeeks.org/problems/element-appearing-once2552/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
