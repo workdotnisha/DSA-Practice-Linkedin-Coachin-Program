@@ -1,0 +1,2 @@
+# Find First and Last Position of Element in Sorted Array ⭐⭐⭐
+You can access the problem using the following link: [Problem Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
